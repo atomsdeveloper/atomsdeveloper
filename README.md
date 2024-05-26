@@ -11,12 +11,15 @@
 - 🥸 &nbsp;À medida que ganhei experiência na área, descobri minha paixão. Desde então, concentro meus esforços em criar conteúdo no campo do desenvolvimento web, especificamente refinando minhas habilidades como desenvolvedor front-end.
 - 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web frontend. Utilizo a stack JavaScript (Node, React) para desenvolver em ambas as frentes.
 - ⚽ &nbsp; Sou apaixonado por futebol, especialmente pelo times Santos e Barcelona 1, e costumo jogar no meu tempo livre. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça haha!
-- 📖 &nbsp; Estou imerso no estudo das seguintes techs buscando aprimorar minhas habilidades e conhecimento no desenvolvimento web moderno:
+- 💵 &nbsp; Também gosto muito de investimentos, do mercado financeiro e de economia.
+
+<h2>📖 &nbsp;My Learning</h2>
+<p>💻&nbsp; Estou imerso no estudo das seguintes techs buscando aprimorar minhas habilidades e conhecimento no desenvolvimento web moderno:</p>
+
 - ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
 - ![Next](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
 - ![Styled-Components](https://img.shields.io/badge/styled-components-333333?style=flat&logo=styled-components)
 - ![Strapi](https://img.shields.io/badge/-strapi-333333?style=flat&logo=strapi)
-- 💵 &nbsp; Também gosto muito de investimentos, do mercado financeiro e de economia.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
