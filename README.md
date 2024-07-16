@@ -20,7 +20,7 @@
 - ![Next](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
 - ![Strapi](https://img.shields.io/badge/-strapi-333333?style=flat&logo=strapi)
 - ![Storybook](https://img.shields.io/badge/-storybook-333333?style=flat&logo=storybook)
-- ![Pentest](https://img.shields.io/badge/-network-333333?style=flat&logo=network)
+- ![Pentest](https://img.shields.io/badge/-pentest-333333?style=flat&logo=network)
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
