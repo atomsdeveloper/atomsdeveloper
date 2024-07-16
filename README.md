@@ -10,7 +10,7 @@
 - 👨🏻‍💻 &nbsp; Desde 2021, sou profundamente apaixonado por tecnologia e por todas as suas possibilidades transformadoras. Desde então, tenho buscado constantemente evoluir e adquirir conhecimento nessa área fascinante.
 - 🥸 &nbsp;À medida que ganhei experiência na área, descobri minha paixão. Desde então, concentro meus esforços em criar conteúdo no campo do desenvolvimento web, especificamente refinando minhas habilidades como desenvolvedor front-end.
 - 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web frontend. Utilizo a stack JavaScript (Node, React) para desenvolver em ambas as frentes.
-- ⚽ &nbsp; Sou apaixonado por futebol, especialmente pelos times Santos e Barcelona, e costumo jogar no meu tempo livre. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça haha!
+- ⚽ &nbsp; Sou apaixonado por futebol, especialmente pelos times Santos e Barcelona, e costumo jogar no meu tempo livre. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça, haha!
 - 💵 &nbsp; Também gosto muito de investimentos, do mercado financeiro e de economia.
 
 <h2>📖 &nbsp;My Learning</h2>
