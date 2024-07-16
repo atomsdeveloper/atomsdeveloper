@@ -11,7 +11,7 @@
 - 🥸 &nbsp;À medida que ganhei experiência na área, descobri minha paixão. Desde então, concentro meus esforços em criar conteúdo no campo do desenvolvimento web, especificamente refinando minhas habilidades como desenvolvedor Full-Stack.
 - 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web frontend. Utilizo a stack JavaScript (Node, React) para desenvolver em ambas as frentes, sou entusiasta da tech Python onde crio ferramentas para analise de códigos.
 - ⚽ &nbsp; Sou apaixonado por futebol, especialmente pelos times Santos e Barcelona, e costumo jogar no meu tempo livre. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça, haha!
-- 💵 &nbsp; Também gosto muito de investimentos, do mercado financeiro e de economia.
+- 💵 &nbsp; Gosto muito de investimentos, do mercado financeiro e de economia.
 
 <h2>📖 &nbsp;My Learning</h2>
 <p>💻&nbsp; Estou imerso no estudo das seguintes techs buscando aprimorar minhas habilidades e conhecimento no desenvolvimento web moderno:</p>
