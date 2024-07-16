@@ -18,9 +18,8 @@
 
 - ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
 - ![Next](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
-- ![Styled-Components](https://img.shields.io/badge/styled-components-333333?style=flat&logo=styled-components)
 - ![Strapi](https://img.shields.io/badge/-strapi-333333?style=flat&logo=strapi)
-- ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+- ![Storybook](https://img.shields.io/badge/-storybook-333333?style=flat&logo=storybook)
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
@@ -30,6 +29,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Styled-Components](https://img.shields.io/badge/styled-components-333333?style=flat&logo=styled-components)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 
 
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
