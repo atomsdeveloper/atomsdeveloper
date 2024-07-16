@@ -37,7 +37,7 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=E535AB)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=blue)
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
