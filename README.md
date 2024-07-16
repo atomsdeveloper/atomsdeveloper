@@ -21,6 +21,7 @@
 - ![Strapi](https://img.shields.io/badge/-Strapi-333333?style=flat&logo=strapi)
 - ![Storybook](https://img.shields.io/badge/-Storybook-333333?style=flat&logo=storybook)
 - ![Pentest](https://img.shields.io/badge/-Pentest-333333?style=flat&logo=redhat)
+- ![Kali Linux](https://img.shields.io/badge/-Kali-333333?style=flat&logo=kali)
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
