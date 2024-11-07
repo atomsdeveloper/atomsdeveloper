@@ -18,10 +18,6 @@
 
 - ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
 - ![Next](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
-- ![Strapi](https://img.shields.io/badge/-Strapi-333333?style=flat&logo=strapi)
-- ![Storybook](https://img.shields.io/badge/-Storybook-333333?style=flat&logo=storybook)
-- ![Pentest](https://img.shields.io/badge/-Pentest-333333?style=flat&logo=redhat)
-- ![Kali](https://img.shields.io/badge/-Kali-333333?style=flat&logo=Kali-linux&logoColor=ffff)
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
@@ -34,7 +30,6 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Styled-Components](https://img.shields.io/badge/Styled-Components-333333?style=flat&logo=styled-components)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=red)
-
 
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
