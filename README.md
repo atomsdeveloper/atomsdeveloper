@@ -30,7 +30,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=red)
-![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma.js)
+![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
