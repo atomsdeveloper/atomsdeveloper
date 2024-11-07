@@ -18,6 +18,7 @@
 
 - ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
 - ![Next](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
+- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
