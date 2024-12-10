@@ -20,7 +20,7 @@
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 - ![Next](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
 - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-- ![Cyber-Security](https://img.shields.io/badge/-Cs-333333?style=flat&logo=hat&logoColor=6B3FA0)
+- ![Cyber-Security](https://img.shields.io/badge/-Cyber-Security-333333?style=flat&logo=redhat&logoColor=6B3FA0)
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
