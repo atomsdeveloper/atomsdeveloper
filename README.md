@@ -16,9 +16,11 @@
 <h2>📖 &nbsp;My Learning</h2>
 <p>💻&nbsp; Estou imerso no estudo das seguintes techs buscando aprimorar minhas habilidades e conhecimento no desenvolvimento web moderno:</p>
 
-- ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
+
+- [TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 - ![Next](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
 - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- [Cyber-Security](https://img.shields.io/badge/-Hat-333333?style=flat&logo=hat&logoColor=6B3FA0)
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
